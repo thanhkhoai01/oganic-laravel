@@ -1,2 +1,0 @@
-
-<?php echo $__env->make('admin.layouts.index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /code/ogani-laravel/resources/views/admin/index.blade.php ENDPATH**/ ?>
